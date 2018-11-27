@@ -1,6 +1,6 @@
 # Handwritten Digit And Alphabet Recognizer
 Handwritten Digit and Alphabet Recognition using Convolutional Neural Network in Python3 with Keras
-![Output1.png](https://github.com/Shubham-Vishwakarma/Handwritten-Digit-And-Alphabet-Recognizer/blob/master/Output_SS/output1.png)
+<img src="https://github.com/Shubham-Vishwakarma/Handwritten-Digit-And-Alphabet-Recognizer/blob/master/Output_SS/output1.png" data-canonical-src="https://github.com/Shubham-Vishwakarma/Handwritten-Digit-And-Alphabet-Recognizer/blob/master/Output_SS/output1.png" width="800" height="400" />
 
 ## Getting Started
 The following instructions will provide a detailed information to run the code successfully.
@@ -33,22 +33,26 @@ git clone https://github.com/Shubham-Vishwakarma/Handwritten-Digit-And-Alphabet-
 ```
 python3 cnn_mnist_model_test_for_real_data.py
 ```
-![Output1.png](https://github.com/Shubham-Vishwakarma/Handwritten-Digit-And-Alphabet-Recognizer/blob/master/Output_SS/output5.png)
+<img src="https://github.com/Shubham-Vishwakarma/Handwritten-Digit-And-Alphabet-Recognizer/blob/master/Output_SS/output5.png" data-canonical-src="https://github.com/Shubham-Vishwakarma/Handwritten-Digit-And-Alphabet-Recognizer/blob/master/Output_SS/output5.png" width="800" height="400" />
 
 ```
 python3 cnn_mnist_model_test_for_mulitple_digit_prediction.py
 ```
-![Output1.png](https://github.com/Shubham-Vishwakarma/Handwritten-Digit-And-Alphabet-Recognizer/blob/master/Output_SS/output6.png)
+<img src="https://github.com/Shubham-Vishwakarma/Handwritten-Digit-And-Alphabet-Recognizer/blob/master/Output_SS/output6.png" data-canonical-src="https://github.com/Shubham-Vishwakarma/Handwritten-Digit-And-Alphabet-Recognizer/blob/master/Output_SS/output6.png" width="800" height="400" />
 
 ```
 python3 cnn_model_test_for_real_data.py
 ```
-![Output1.png](https://github.com/Shubham-Vishwakarma/Handwritten-Digit-And-Alphabet-Recognizer/blob/master/Output_SS/output4.png)
+<p float="left">
+<img src="https://github.com/Shubham-Vishwakarma/Handwritten-Digit-And-Alphabet-Recognizer/blob/master/Output_SS/output4.png" data-canonical-src="https://github.com/Shubham-Vishwakarma/Handwritten-Digit-And-Alphabet-Recognizer/blob/master/Output_SS/output4.png" width="400" height="400" />
+<img src="https://github.com/Shubham-Vishwakarma/Handwritten-Digit-And-Alphabet-Recognizer/blob/master/Output_SS/output2.png" data-canonical-src="https://github.com/Shubham-Vishwakarma/Handwritten-Digit-And-Alphabet-Recognizer/blob/master/Output_SS/output2.png" width="400" height="400" />
+</p>
 
 ```
 python3 cnn_model_for_multiple_prediction.py
 ```
-![Output1.png](https://github.com/Shubham-Vishwakarma/Handwritten-Digit-And-Alphabet-Recognizer/blob/master/Output_SS/output3.png)
+<img src="https://github.com/Shubham-Vishwakarma/Handwritten-Digit-And-Alphabet-Recognizer/blob/master/Output_SS/output3.png" data-canonical-src="https://github.com/Shubham-Vishwakarma/Handwritten-Digit-And-Alphabet-Recognizer/blob/master/Output_SS/output3.png" width="800" height="400" />
+
 
 
 ## References
